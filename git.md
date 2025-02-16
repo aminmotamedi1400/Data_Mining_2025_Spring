@@ -26,7 +26,7 @@ $$
 ![Link](https://img.icons8.com/?size=100&id=Li62CRyJSreB&format=png&color=FFFFFFFF)
 
 and with drag and drop (Hold down Shift)
-[PDF file](mit-book.pdf)
+[PDF file](README.md)
 
 # Work whit GitHub 
 ## Configure Git 
