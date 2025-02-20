@@ -58,3 +58,14 @@ git checkout -b new-feature
 git checkout main
 git merge new-feature
 ```
+
+## Git from device 
+
+
+```bash
+git init 
+git add . 
+git commit -m "Your commit message"
+git remote add origin https://...
+git push -u origin master
+```
