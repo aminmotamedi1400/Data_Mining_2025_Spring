@@ -69,3 +69,7 @@ git commit -m "Your commit message"
 git remote add origin https://...
 git push -u origin master
 ```
+
+# CSS in Markdown 
+<span style = "color:red ; background-color : blue">amin</span>
+
